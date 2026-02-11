@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinotenobet-online.com/
+Sitemap: https://casinotenobet-online.com/sitemap.xml
